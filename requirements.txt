@@ -1,0 +1,7 @@
+# 依赖：全部为标准库（json / os / re / csv / shutil）+ 以下可选包
+# soul_media_download.py / soul_organize.py 仅需标准库
+#
+# 缩略图生成（soul_organize.py 的 [2/3] 步）需要以下任意一个，
+# 都没有时会跳过缩略图、只生成归档与浏览页：
+Pillow>=10.0.0
+# opencv-python>=4.8.0

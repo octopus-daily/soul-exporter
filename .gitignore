@@ -1,0 +1,15 @@
+# 个人数据 —— 绝不入库
+soul_export.json
+soul-media/
+瞬间/
+_缩略图/
+soul浏览.html
+soul索引.md
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+recon/bundles/
